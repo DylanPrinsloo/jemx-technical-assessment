@@ -1,1 +1,7 @@
 .DS_Store
+
+
+# I added these:
+.venv
+.python-version 
+#  I used 3.13

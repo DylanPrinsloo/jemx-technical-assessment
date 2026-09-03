@@ -1,0 +1,11 @@
+[project]
+name = "jemx-technical-assessment"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.5",
+    "polars>=1.44.1",
+    "scikit-learn>=1.9.0",
+    "streamlit>=1.63.0",
+]
